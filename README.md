@@ -54,7 +54,7 @@ npm run build
 
 ## 服务器部署
 
-* 👉 [部署文档](https://github.com/biaov/automated/deploy.md)
+* 👉 [部署文档](https://github.com/biaov/automated/blob/main/deploy.md)
 
 ## License
 
