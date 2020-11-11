@@ -68,7 +68,7 @@ pm2 start dist
 ### 程序端口
 
 * 默认端口为 `3300`
-* 更改程序端口文件：[Port](https://github.com/biaov/src/utils/init.ts)
+* 更改程序端口文件：[Port](https://github.com/biaov/automated/blob/main/src/utils/init.ts)
 * ⚠ 注意：
   * 如果你直接用 IP 测试访问，请把接口加上端口号，例如：`http://ip地址:3300/api/public/webhooks`
   * 如果你使用域名，可以设置 nginx 反向代理则不需要直接使用 `3300` 端口访问，如果没设置直接访问则需加上端口号。
@@ -83,7 +83,7 @@ App.listen(3300); // 创建一个本地服务，端口为 3300
 ### 更换校验规则
 
 * 当前的参数校验规则比较简单，如果你有好点子或者好想法可以自由发挥或者提 👉 [Issues](https://github.com/biaov/automated/issues)。
-* 参数校验规则更改文件：👉 [参数校验文件](https://github.com/biaov/automated/src/middleware/valid/public.ts)。
+* 参数校验规则更改文件：👉 [参数校验文件](https://github.com/biaov/automated/blob/main/src/middleware/valid/public.ts)。
 
 ## License
 
