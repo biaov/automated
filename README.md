@@ -25,7 +25,7 @@ npm run build
 ## 目录
 
 <details>
-<summary>✅ 查看目录<summary>
+<summary>✅ 查看目录</summary>
 
 ```Markdown
 |-- automated ---------------------- 项目名称
