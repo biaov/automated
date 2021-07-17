@@ -38,7 +38,7 @@ pm2 start dist
 ```YAML
 # 自动化部署配置文件
 - project: "wordpress"
-  outDir: "C:\\html"
+  outDir: "/usr/share/apps"
   install: false
 ```
 
@@ -50,7 +50,7 @@ pm2 start dist
 [
   {
     "project": "wordpress"
-    "outDir": "C:\\html"
+    "outDir": "/usr/share/apps"
     "install": false
   }
 ]
