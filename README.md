@@ -2,6 +2,11 @@
 
 一个使用 NodeJs + TypeScript 开发的自动化部署项目！👍
 
+<h2 align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" />
+  <a href="https://github.com/biaov/automated/blob/master/LICENSE"><img src="https://img.shields.io/github/license/biaov/automated.svg" /></a>
+</h2>
+
 ## 启动项目
 
 ### 安装依赖
@@ -56,7 +61,6 @@ npm run build
 
 * 👉 [部署文档](https://github.com/biaov/automated/blob/main/deploy.md)
 
-## License
+## 贡献者
 
-* [MIT](http://opensource.org/licenses/MIT)
-* Copyright © 2020-present, TalkingData biaov&lt;biaov@qq.com&gt;
+[![贡献者](https://contrib.rocks/image?repo=biaov/automated)](https://github.com/biaov/automated/graphs/contributors)
